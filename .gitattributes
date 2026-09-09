@@ -1,0 +1,8 @@
+# Every text file in this repository is written with LF endings, and the verification sweep in
+# verification/run_all.py checks the bytes, so git must not rewrite them on any platform.
+* text=auto eol=lf
+
+# Binary, so git should never touch these at all.
+*.png binary
+*.jpg binary
+*.pdf binary

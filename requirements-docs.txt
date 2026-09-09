@@ -1,0 +1,5 @@
+# Everything the website needs, and nothing the course itself needs.
+# The course runs on requirements.txt alone; this file is only for building the pages.
+mkdocs==1.6.1
+mkdocs-material==9.5.44
+pymdown-extensions==10.11.2
