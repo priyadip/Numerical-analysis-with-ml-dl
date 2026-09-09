@@ -1,0 +1,3600 @@
+{
+ "S1|0 Fundamentals|0.1|Evaluating a polynomial, nested (Horner) form": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|0 Fundamentals|0.1|Operation counting for polynomial evaluation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|0 Fundamentals|0.2|Binary to decimal conversion": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|0 Fundamentals|0.2|Decimal to binary conversion": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|0 Fundamentals|0.3|Addition of floating point numbers": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|0 Fundamentals|0.3|IEEE 754 floating point formats (single, double, long double)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|0 Fundamentals|0.3|Machine epsilon definition": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|0 Fundamentals|0.3|Normalized machine representation, left-justified mantissa": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|0 Fundamentals|0.3|Rounding versus chopping": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|0 Fundamentals|0.4|Loss of significance, catastrophic cancellation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|0 Fundamentals|0.4|Rewriting formulas to avoid cancellation (quadratic formula)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|0 Fundamentals|0.5|Review of calculus: IVT, MVT, Rolle, Taylor with remainder": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.1|Bisection accuracy bound and iteration count": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.1|Bisection method, bracketing a root": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.2|Fixed points of a function": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.2|Geometry of fixed point iteration (cobweb diagram)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.2|Linear convergence of fixed point iteration": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.2|Stopping criteria and their failure modes": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.3|Forward and backward error": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.3|Sensitivity of root finding, condition number of a root": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.3|The Wilkinson polynomial": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.4|Linear convergence at multiple roots, modified Newton": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.4|Newton's method derivation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.4|Quadratic convergence of Newton's method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.5|Brent's method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.5|Secant method and its order of convergence": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|1.5|Secant variants (false position, Illinois, inverse quadratic)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|1 Solving Equations|RC1|Kinematics of the Stewart platform": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|10 Trigonometric Interpolation and the FFT|10.1|Complex arithmetic and roots of unity": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|10 Trigonometric Interpolation and the FFT|10.1|Discrete Fourier Transform": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|10 Trigonometric Interpolation and the FFT|10.1|Fast Fourier Transform": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|10 Trigonometric Interpolation and the FFT|10.2|DFT Interpolation Theorem": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|10 Trigonometric Interpolation and the FFT|10.2|Efficient evaluation of trigonometric functions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|10 Trigonometric Interpolation and the FFT|10.3|Least squares fitting with trigonometric functions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|10 Trigonometric Interpolation and the FFT|10.3|Orthogonality and interpolation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|10 Trigonometric Interpolation and the FFT|10.3|Sound, noise and filtering": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|10 Trigonometric Interpolation and the FFT|RC10|The Wiener filter": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|11 Compression|11.1|One-dimensional Discrete Cosine Transform": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|11 Compression|11.1|The DCT and least squares approximation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|11 Compression|11.2|Image compression": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|11 Compression|11.2|Quantization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|11 Compression|11.2|Two-dimensional DCT": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|11 Compression|11.3|Huffman coding for the JPEG format": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|11 Compression|11.3|Information theory and coding": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|11 Compression|11.4|Bit quantization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|11 Compression|11.4|Modified Discrete Cosine Transform": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|11 Compression|RC11|A simple audio codec": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.1|Convergence of power iteration": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.1|Inverse power iteration": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.1|Power iteration": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.1|Rayleigh quotient iteration": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.2|Real Schur form and the QR algorithm": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.2|Simultaneous iteration and normalized simultaneous iteration": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.2|Upper Hessenberg form": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.3|Finding the SVD in general": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.3|Geometry of the SVD (unit sphere to hyperellipse)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.4|Calculating the SVD, the condition squaring warning": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.4|Compression with the SVD": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.4|Dimension reduction": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|12.4|Properties of the SVD": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|12 Eigenvalues and Singular Values|RC12|How search engines rate page quality (PageRank)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|13 Optimization|13.1|Golden section search": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|13 Optimization|13.1|Nelder-Mead search": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|13 Optimization|13.1|Successive parabolic interpolation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|13 Optimization|13.2|Conjugate gradient search for nonlinear problems": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|13 Optimization|13.2|Newton's method for optimization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|13 Optimization|13.2|Steepest descent": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|13 Optimization|RC13|Molecular conformation and numerical optimization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.1|Naive Gaussian elimination": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.1|Operation counts for Gaussian elimination": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.2|Back substitution with the LU factorization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.2|Complexity of the LU factorization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.2|Matrix form of Gaussian elimination, LU factorization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.3|Error magnification factor and matrix condition number": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.3|Hilbert matrix as an ill-conditioned example": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.3|Infinity norm of a vector": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.3|Residual, backward error and forward error for Ax=b": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.3|Swamping": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.4|PA = LU factorization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.4|Partial pivoting": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.4|Permutation matrices": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.5|Convergence of iterative methods, spectral radius": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.5|Gauss-Seidel method and SOR": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.5|Jacobi method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.5|Sparse matrix computations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.6|Cholesky factorization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.6|Conjugate Gradient method, A-inner product, conjugacy": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.6|Preconditioning, Jacobi and SSOR preconditioners": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.6|Symmetric positive definite matrices": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.7|Broyden's method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|2.7|Multivariate Newton's method and the Jacobian": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|2 Systems of Equations|RC2|The Euler-Bernoulli beam": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.1|Lagrange interpolation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.1|Newton's divided differences": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.1|Representing functions by approximating polynomials": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.1|Uniqueness of the degree-d interpolating polynomial": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.2|Interpolation error formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.2|Proof of the Newton form and the error formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.2|Runge phenomenon": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.3|Change of interval for Chebyshev nodes": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.3|Chebyshev polynomials and their recurrence": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.3|Chebyshev's theorem on node placement": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.4|Cubic spline properties and the tridiagonal system": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.4|Spline endpoint conditions (natural, clamped, parabolic, not-a-knot)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|3.5|Bezier curves": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|3 Interpolation|RC3|Fonts from Bezier curves": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.1|Conditioning of least squares, squared condition number": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.1|Fitting models to data": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.1|Inconsistent systems and the least squares idea": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.1|Normal equations and projection geometry": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.2|Data linearization for exponential and power models": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.2|Periodic data models": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.3|Classical Gram-Schmidt orthogonalization and least squares": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.3|Householder reflectors and Householder QR": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.3|Modified Gram-Schmidt and loss of orthogonality": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.3|Reduced and full QR factorization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.4|GMRES algorithm": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.4|Krylov methods and the Krylov subspace": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.4|Preconditioned GMRES": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.5|Gauss-Newton method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.5|Levenberg-Marquardt method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|4.5|Models with nonlinear parameters": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|4 Least Squares|RC4|GPS, conditioning and nonlinear least squares": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|5 Differentiation and Integration|5.1|Extrapolation for derivatives": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|5 Differentiation and Integration|5.1|Finite difference formulas for derivatives": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|5 Differentiation and Integration|5.1|Rounding versus truncation error, optimal step size": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|5 Differentiation and Integration|5.1|Symbolic differentiation and integration": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|5 Differentiation and Integration|5.2|Composite Newton-Cotes formulas": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|5 Differentiation and Integration|5.2|Open Newton-Cotes methods": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|5 Differentiation and Integration|5.2|Simpson's rule": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|5 Differentiation and Integration|5.2|Trapezoid rule": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|5 Differentiation and Integration|5.3|Romberg integration": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|5 Differentiation and Integration|5.4|Adaptive quadrature": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|5 Differentiation and Integration|5.5|Gaussian quadrature, Legendre nodes and weights": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|5 Differentiation and Integration|RC5|Motion control in computer-aided modeling": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.1|Existence, uniqueness and continuity, Lipschitz condition": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.1|First order linear equations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.1|Initial value problems, Euler's method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.2|Explicit trapezoid method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.2|Local and global truncation error": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.2|Taylor methods for ODEs": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.3|Computer simulation: orbital mechanics": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.3|Computer simulation: the pendulum": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.3|Systems of ODEs, higher order equations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.4|Computer simulation: Hodgkin-Huxley neuron": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.4|Computer simulation: Lorenz equations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.4|The Runge-Kutta family, RK4": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.5|Embedded Runge-Kutta pairs": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.5|Order 4/5 methods (RKF45, Dormand-Prince)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.6|Implicit methods and stiff equations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.7|Explicit multistep methods (Adams-Bashforth)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.7|Generating multistep methods": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|6.7|Implicit multistep methods (Adams-Moulton)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|6 Ordinary Differential Equations|RC6|The Tacoma Narrows Bridge": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|7 Boundary Value Problems|7.1|Shooting method implementation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|7 Boundary Value Problems|7.1|Solutions of boundary value problems": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|7 Boundary Value Problems|7.2|Finite difference method for linear BVPs": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|7 Boundary Value Problems|7.2|Finite difference method for nonlinear BVPs": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|7 Boundary Value Problems|7.3|Collocation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|7 Boundary Value Problems|7.3|Finite elements and the Galerkin method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|7 Boundary Value Problems|RC7|Buckling of a circular ring": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|8 Partial Differential Equations|8.1|Backward difference method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|8 Partial Differential Equations|8.1|Crank-Nicolson method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|8 Partial Differential Equations|8.1|Forward difference method for parabolic equations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|8 Partial Differential Equations|8.1|Stability analysis of the forward difference method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|8 Partial Differential Equations|8.2|The CFL condition": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|8 Partial Differential Equations|8.2|The wave equation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|8 Partial Differential Equations|8.3|Finite difference method for elliptic equations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|8 Partial Differential Equations|8.3|Finite element method for elliptic equations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|8 Partial Differential Equations|8.4|Implicit Newton solver for nonlinear PDEs": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|8 Partial Differential Equations|8.4|Nonlinear equations in two space dimensions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|8 Partial Differential Equations|RC8|Heat distribution on a cooling fin": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|9 Random Numbers|9.1|Exponential and normal random numbers": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|9 Random Numbers|9.1|Pseudo-random numbers, linear congruential generators": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|9 Random Numbers|9.2|Monte Carlo simulation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|9 Random Numbers|9.2|Power laws for Monte Carlo estimation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|9 Random Numbers|9.2|Quasi-random numbers (Halton sequences)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|9 Random Numbers|9.3|Continuous Brownian motion": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|9 Random Numbers|9.3|Random walks": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|9 Random Numbers|9.4|Adding noise to differential equations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|9 Random Numbers|9.4|Numerical methods for SDEs (Euler-Maruyama, Milstein)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|9 Random Numbers|RC9|The Black-Scholes formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|Appendix A|A.1-A.3|Matrix fundamentals, linear systems, block multiplication": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|Appendix A|A.4-A.5|Eigenvalues and eigenvectors, symmetric matrices": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|Appendix A|A.6|Vector calculus: gradient, Jacobian, Hessian": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S1|Appendix B|B.1-B.7|Programming environment basics, translated to NumPy conventions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|1 Number Systems|1.2.1|Conversion from any base to decimal": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|1 Number Systems|1.2.2|Conversion between binary, octal and hexadecimal": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|1 Number Systems|1.2.3|Conversion from decimal to any other base": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|1 Number Systems|1.2.4|Conversion from one base to any other base": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|1 Number Systems|1.2|Representation of integers in binary, octal and hexadecimal": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|1 Number Systems|1.3|Representation of fractions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|10 Equal Interval Interpolation|10.10.1|Lagrange bivariate interpolation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|10 Equal Interval Interpolation|10.10.2|Newton bivariate interpolation for equi-spaced points": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|10 Equal Interval Interpolation|10.1|Gregory-Newton forward difference formula and its error": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|10 Equal Interval Interpolation|10.2|Gregory-Newton backward difference formula and its error": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|10 Equal Interval Interpolation|10.3|Central difference formulas": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|10 Equal Interval Interpolation|10.4|Gauss forward central difference formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|10 Equal Interval Interpolation|10.5|Gauss backward central difference formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|10 Equal Interval Interpolation|10.6|Stirling formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|10 Equal Interval Interpolation|10.7|Bessel formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|10 Equal Interval Interpolation|10.8|Everett formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|10 Equal Interval Interpolation|10.9|Steffensen formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|11 Splines and Curve Fitting|11.2.1|Cubic spline interpolation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|11 Splines and Curve Fitting|11.2.2|Cubic spline for equi-spaced points": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|11 Splines and Curve Fitting|11.3|Bezier curve": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|11 Splines and Curve Fitting|11.4|B-spline curve": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|11 Splines and Curve Fitting|11.5.1|Straight line least squares fitting": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|11 Splines and Curve Fitting|11.5.2|Nonlinear curve fitting by linearization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|11 Splines and Curve Fitting|11.5.3|Quadratic curve fitting": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|11 Splines and Curve Fitting|11.6|Chebyshev polynomial approximation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|11 Splines and Curve Fitting|11.7|Pade approximation by rational functions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|12 Numerical Differentiation|12.2|Differentiation formulas derived from interpolation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|12 Numerical Differentiation|12.2|Summary table of differentiation formulas": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.1.1|Trapezoidal rule": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.1.2|Simpson 1/3 rule": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.1.3|Simpson 3/8 rule": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.1.4|Boole rule": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.1.5|Weddle rule": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.1|Newton-Cotes quadrature derived via Lagrange": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.2|Composite Newton-Cotes rules": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.3|Error terms for all Newton-Cotes rules": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.4.1|Gauss-Legendre formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.4.2|Gauss-Chebyshev formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.4.3|Gauss-Laguerre formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.4.4|Gauss-Hermite formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.5|Euler-Maclaurin formula": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.6|Richardson extrapolation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.7|Romberg integration": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|13 Numerical Integration|13.8|Double integrals by trapezoidal and Simpson rules": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.1.8|Existence and uniqueness of solutions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.10|Order and stability of numerical methods": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.11|Stability analysis of the linear system y-prime = Ay": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.12|Backward Euler method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.1|Classification and terminology of differential equations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.2|Picard method of successive approximations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.3|Taylor series method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.4|Euler method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.5|Modified and improved Euler (Heun) method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.6|Runge-Kutta methods": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.7|Milne (Milne-Simpson) method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.8|Adams-Bashforth predictor and Adams-Moulton corrector": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|14 First Order ODE IVPs|14.9|Errors in numerical methods for ODEs": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|15 ODE Systems and BVPs|15.1-15.4|Picard, Taylor, Euler and RK4 for systems of ODEs": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|15 ODE Systems and BVPs|15.5|Shooting method for boundary value problems": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|15 ODE Systems and BVPs|15.6.1|Finite difference approximations for first derivatives": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|15 ODE Systems and BVPs|15.6.2|Finite difference approximations for second derivatives": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|15 ODE Systems and BVPs|15.7|Finite difference method for boundary value problems": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|15 ODE Systems and BVPs|15.8|Finite difference approximations for unequal intervals": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.1|Classification of second-order quasi-linear PDEs": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.2|Initial and boundary conditions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.3|Finite difference approximations for partial derivatives": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.4.1|Bender-Schmidt explicit scheme": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.4.2|Crank-Nicolson scheme": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.4.3|General implicit (weighted) scheme": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.4.4|Richardson scheme and its instability": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.4.5|Du-Fort and Frankel scheme": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.5.1-16.5.3|Consistency, convergence and order of a scheme": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.5.4|Stability of a finite difference scheme": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.5.5-16.5.6|Matrix method for stability (explicit and Crank-Nicolson)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.5.7-16.5.8|Von Neumann method for stability (explicit and Crank-Nicolson)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.6.1-16.6.2|Two dimensional heat conduction, explicit and CN schemes": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.6.3|Alternating Direction Implicit (ADI) scheme": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.7.1|Laplace equation by finite differences": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.7.2|Poisson equation by finite differences": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.8.1|Wave equation, explicit scheme": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.8.2|Wave equation, implicit scheme": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|16 Partial Differential Equations|16.9|Building your own finite difference scheme": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.1|Absolute, relative and percentage errors": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.2.1|Modeling error": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.2.2|Inherent error (error in the original data)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.2.3|Blunder": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.3.1|Round-off error": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.3.2|Overflow and underflow": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.3.3.1|Propagated error in arithmetic operations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.3.3.2|Error propagation in a function of one variable": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.3.3.3|Error propagation in a function of several variables": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.3.4|Truncation error": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.3.5|Machine epsilon": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.3.7|Loss of significance, condition and stability": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|2 Error Analysis|2.4|How error accumulates over many operations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.10|Muller method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.11|Chebyshev method (third order)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.12|Aitken delta-squared acceleration": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.13|Summary and comparison of root-finding methods": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.1|Polynomial and transcendental equations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.2|Direct, graphical, trial-and-error and iterative approaches": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.3|Bisection (Bolzano, interval halving) method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.4|Fixed-point (successive approximation) method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.5|Newton-Raphson method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.6|Regula falsi (false position) method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.7|Secant method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.8.1-3.8.5|Convergence proofs for all five root-finding methods": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|3 Nonlinear Equations|3.9.1-3.9.5|Order of convergence for all five methods": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|4 Nonlinear Systems and Polynomials|4.1|Fixed-point method for systems": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|4 Nonlinear Systems and Polynomials|4.2|Seidel iteration method for systems": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|4 Nonlinear Systems and Polynomials|4.3|Newton-Raphson method for systems": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|4 Nonlinear Systems and Polynomials|4.4|Complex roots": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|4 Nonlinear Systems and Polynomials|4.5.1|Descartes rule of signs": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|4 Nonlinear Systems and Polynomials|4.5.2|Sturm sequence for counting real roots": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|4 Nonlinear Systems and Polynomials|4.6|Birge-Vieta (Horner) method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|4 Nonlinear Systems and Polynomials|4.7|Lin-Bairstow method for quadratic factors": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|4 Nonlinear Systems and Polynomials|4.8|Graeffe root squaring method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.11|Gauss-Seidel method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.12|Relaxation method (SOR)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.13|Convergence criteria for iterative methods": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.14|Matrix forms and convergence of iterative methods": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.16|Applications of linear systems": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.2|Cramer rule and why it is impractical": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.3|Matrix inversion method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.4.1|Doolittle LU method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.4.2|Crout LU method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.4.3|Cholesky method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.5.1|Operational counts for Gauss elimination": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.5.2|Thomas algorithm for tridiagonal systems": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.5|Gauss elimination method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.6|Gauss-Jordan method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.7|Comparison of direct methods": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.8|Pivoting strategies": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|5 Systems of Linear Equations|5.9-5.10|Iterative methods and the Jacobi method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|6 Eigenvalues and Eigenvectors|6.2.3-6.2.4|Distinct and repeated eigenvalues, independent and dependent eigenvectors": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|6 Eigenvalues and Eigenvectors|6.2|Eigenvalues and eigenvectors, real and complex": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|6 Eigenvalues and Eigenvectors|6.3.1|Gerschgorin theorem": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|6 Eigenvalues and Eigenvectors|6.3.2|Brauer (Cassini oval) theorem": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|6 Eigenvalues and Eigenvectors|6.4.1|Inverse power method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|6 Eigenvalues and Eigenvectors|6.4.2|Shifted power method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|6 Eigenvalues and Eigenvectors|6.4|Rayleigh power method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|6 Eigenvalues and Eigenvectors|6.5|Rutishauser (LR) decomposition method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|7 Symmetric Eigenproblem|7.1.1|Similarity transformations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|7 Symmetric Eigenproblem|7.1.2|Orthogonal transformations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|7 Symmetric Eigenproblem|7.2|Jacobi rotation method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|7 Symmetric Eigenproblem|7.3|Sturm sequence for real symmetric tridiagonal matrices": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|7 Symmetric Eigenproblem|7.4|Givens method (tridiagonalization by rotations)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|7 Symmetric Eigenproblem|7.5|Householder method (tridiagonalization by reflections)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.2.1|Power form of a polynomial": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.2.2|Shifted power form": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.2.3|Newton form": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.2.4|Nested Newton form": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.2.5|Recursive algorithm for the nested Newton form": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.2.6|Change of center in the Newton form": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.3|Lagrange method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.4.1|Proof for higher order divided differences": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.4.2|Advantages of divided differences over Lagrange": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.4.3|Properties of divided differences": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.4|Newton divided difference method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.5|Error in the interpolating polynomial": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.7|Hermite interpolation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.8|Piecewise interpolation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|8 Interpolation|8.9|Weierstrass approximation theorem": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|9 Finite Operators|9.2.1|Forward difference operator": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|9 Finite Operators|9.2.2|Backward difference operator": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|9 Finite Operators|9.2.3|Central difference operator": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|9 Finite Operators|9.3.1|Mean (average) operator": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|9 Finite Operators|9.3.2|Shift operator E": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|9 Finite Operators|9.3.3|Differential operator D": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|9 Finite Operators|9.4.1|Linearity and commutativity of finite operators": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|9 Finite Operators|9.4.2|Interrelations of the finite operators": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|9 Finite Operators|9.5|Operators applied to standard functions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|9 Finite Operators|9.6|Newton divided differences and other finite differences": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|9 Finite Operators|9.7|Finite difference tables and error propagation in them": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S2|Appendix A|A|Comparison of analytical and numerical techniques": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|Appendix B|B|Numerical techniques and the computer": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|Appendix C|C|Taylor series reference": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S2|Appendix D|D|Linear and nonlinear problems": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L1 Matrix-Vector Multiplication|L1|Ax as a linear combination of the columns of A": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L1 Matrix-Vector Multiplication|L1|Matrix product read column by column, and the outer product view": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L10 Householder|L10|Reflector construction and the reflection geometry": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L10 Householder|L10|Storing Q as reflectors instead of forming it": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L10 Householder|L10|The sign choice that avoids cancellation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L11 Least Squares|L11|Least squares as orthogonal projection, P = A(A*A)^-1 A*": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L12 Conditioning|L12|Absolute condition number, as distinct from relative": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L13|L13|The fl axiom model of floating point arithmetic": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L14|L14|Formal definition of backward stability and mixed stability": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L15 More on Stability|L15|A worked backward error analysis carried through the fl model": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L16 Stability of Householder|L16|Accurate product QR despite inaccurate Q, and why that is enough": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L16 Stability of Householder|L16|Backward stability of Householder QR, stated and verified": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L17 Stability of Back Substitution|L17|Backward stability of back substitution, componentwise": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L17 Stability of Back Substitution|L17|Why triangular systems solve more accurately than kappa predicts": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L18 Conditioning of Least Squares|L18|The angle between b and the range of A, and its role": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L18 Conditioning of Least Squares|L18|The four least squares condition numbers": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L19 Stability of Least Squares Algorithms|L19|Stability comparison of normal equations, QR and SVD": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L19 Stability of Least Squares Algorithms|L19|Why forming A*A squares the condition number": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L2 Orthogonal Vectors and Matrices|L2|Inner products, orthogonal and orthonormal vectors": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L2 Orthogonal Vectors and Matrices|L2|Orthogonal and unitary matrices": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L2 Orthogonal Vectors and Matrices|L2|Orthogonal changes of coordinates, rotation and reflection geometry": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L2 Orthogonal Vectors and Matrices|L2|Orthonormal bases and expansion of a vector in one": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L2 Orthogonal Vectors and Matrices|L2|Preservation of the Euclidean norm, and why kappa_2(Q) = 1": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L2 Orthogonal Vectors and Matrices|L2|Why orthogonality is the foundation of numerically stable algorithms": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L21, L22|L21, L22|Growth factor and the theory behind pivoting": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L22 Stability of Gaussian Elimination|L22|Worst case growth versus growth observed in practice": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L24, L29|L24, L29|Schur decomposition and its existence": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L24|L24|Bauer-Fike theorem and eigenvalue conditioning": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L25 Overview of Eigenvalue Algorithms|L25|Roadmap of eigenvalue algorithms and what each one is for": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L25 Overview of Eigenvalue Algorithms|L25|Why no finite algorithm for eigenvalues exists (Abel and Galois)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L27 Rayleigh Quotient|L27|The Rayleigh quotient is stationary at an eigenvector, hence second order accurate": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L3 Norms|L3|Norm-based error bounds as a working tool": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L31|L31|Golub-Kahan bidiagonalization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L31|L31|One-sided Jacobi SVD": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L32 Overview of Iterative Methods|L32|The direct versus iterative decision, driven by size, sparsity and accuracy": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L33 Arnoldi Iteration|L33|The Arnoldi relation AQ_m = Q_(m+1) H_m, stated and verified": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L33|L33|Arnoldi iteration stated as its own algorithm": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L34 How Arnoldi Locates Eigenvalues|L34|Ritz residuals as a stopping test, and which eigenvalues converge first": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L34 How Arnoldi Locates Eigenvalues|L34|The Rayleigh-Ritz procedure as a projection method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L34|L34|Ritz values and Krylov convergence intuition": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L35 GMRES|L35|Stagnation of GMRES": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L35 GMRES|L35|Why eigenvalues do not determine GMRES convergence for nonnormal matrices": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L35, L39|L35, L39|Restarted GMRES, MINRES and BiCGSTAB": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L35|L35|Givens rotations for QR of Hessenberg matrices": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L36 Lanczos Iteration|L36|Ghost eigenvalues from lost orthogonality": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L36 Lanczos Iteration|L36|Reorthogonalization strategies: none, selective, full": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L36|L36|Lanczos iteration and loss of orthogonality": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L37 Lanczos to Gauss Quadrature|L37|Gauss nodes are eigenvalues, weights are squared eigenvector components": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L37 Lanczos to Gauss Quadrature|L37|The Lanczos tridiagonal matrix is the Jacobi matrix of orthogonal polynomials": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L37|L37|Golub-Welsch algorithm for quadrature nodes and weights": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L38 Conjugate Gradients|L38|CG and Lanczos are the same recurrence": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L38 Conjugate Gradients|L38|Finite precision destroys the finite termination property": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L39 Biorthogonalization|L39|BiCG, the short recurrence, and breakdown as its price": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L39 Biorthogonalization|L39|Two-sided Lanczos and biorthogonal Krylov bases": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L3|L3|Induced (operator) matrix norms, Frobenius norm, submultiplicativity": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L3|L3|Spectral radius versus matrix norm": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L3|L3|Vector p-norms, norm axioms, equivalence of norms": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L4 Singular Value Decomposition|L4|Conditioning through singular values, kappa_2 = sigma_1/sigma_n derived": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L4 Singular Value Decomposition|L4|Minimum-norm solutions via the pseudoinverse": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L4, L11|L4, L11|Moore-Penrose pseudoinverse and rank-deficient least squares": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L40 Preconditioning|L40|Eigenvalue clustering, not condition number, is the real goal": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L40 Preconditioning|L40|Left, right and split preconditioning as distinct operations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L40|L40|Incomplete Cholesky preconditioner": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L5 More on the SVD|L5|Singular value perturbation and the Weyl inequalities": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L5|L5|Eckart-Young-Mirsky theorem": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L6 Projectors|L6|Complementary projectors I - P": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L6 Projectors|L6|Oblique versus orthogonal projection, and the norm of a projector": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L6 Projectors|L6|Orthogonal projectors, P conjugate-transpose equals P": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L6 Projectors|L6|Projection error and orthogonality of the residual to the subspace": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L6 Projectors|L6|Projection onto the range of an orthonormal basis, P = QQ*": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L6 Projectors|L6|Projectors and idempotence, P squared equals P": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L6 Projectors|L6|Rank-one projectors qq* and I - qq*": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L7 QR Factorization|L7|QR expressed through projectors, and uniqueness conditions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L8 Gram-Schmidt|L8|Triangular orthogonalization versus orthogonal triangularization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "S3|L8 Gram-Schmidt|L8|Why classical Gram-Schmidt loses orthogonality and modified does not": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Adaptive step sizes: AdaGrad, RMSProp, Adam and AdamW": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Barycentric form of Lagrange interpolation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Butcher tableau notation and Runge-Kutta order conditions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Companion matrix approach to polynomial roots": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Compensated (Kahan) summation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Complex-step differentiation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Condition number estimation without forming the inverse": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Conditioning of an optimization problem": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Conditioning of the Vandermonde matrix": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Cost of automatic differentiation versus finite differences": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Curse of dimensionality in multivariate interpolation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Damped Newton and line search for nonlinear systems": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Divide and conquer for the symmetric tridiagonal eigenproblem": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Flop counting, memory cost and BLAS levels 1, 2 and 3": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Forward mode automatic differentiation with dual numbers": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Generalized eigenvalue problem, Cholesky reduction and the QZ idea": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Gradient descent as an ODE discretization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Gram-Schmidt on functions and three-term recurrences": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|ISTA and FISTA acceleration for composite problems": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Improper integrals, variable transformation and singularity handling": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Inverse problems and regularization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Iterative refinement and mixed precision refinement": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Krylov and low-rank methods inside large-scale learning": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|L1 regularization, LASSO and the soft thresholding operator": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|LDL-transpose factorization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Lagrange multipliers and the KKT conditions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Lanczos and Arnoldi as eigenvalue solvers, implicit restarting": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Lax equivalence theorem": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Learning rate schedules and the convergence rate of SGD": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Lebesgue constant and the near-minimax property of Chebyshev nodes": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Legendre, Chebyshev, Laguerre and Hermite polynomial families": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Loss scaling and higher-precision accumulation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Low-rank adaptation as a low-rank matrix factorization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Matrix-free operators: Krylov methods need only a matvec": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Measuring observed order of convergence numerically": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Mersenne Twister and PCG64 generators, statistical tests": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Method of lines linking PDEs to ODE solvers": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Minimax versus least squares approximation, equioscillation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Momentum, Nesterov acceleration and the heavy ball method": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Multigrid: smoothing, coarse grid correction and the V-cycle": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Natural gradient and Gauss-Newton in machine learning": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Neumaier summation, fixing Kahan's weak case": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Neural ODEs": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Non-determinism from non-associative floating point reduction": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Norms on function spaces and existence of best approximations": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Optimality conditions, convexity and the Hessian test": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|PCA as a truncated SVD, whitening": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Pairwise summation and its log n error bound": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Penalty, barrier and projected gradient methods": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Physics-informed neural networks viewed as collocation": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|QR with column pivoting and numerical rank": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Radix-2 FFT implemented from scratch": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Randomized range finder and randomized SVD": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Regions of absolute stability, A-stability and L-stability": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Reverse mode automatic differentiation with a tape": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Rewriting formulas to remove cancellation (conjugate, half angle)": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Ridge regression as regularized least squares": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Root condition, zero-stability and the Dahlquist barriers": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Secant condition, BFGS and L-BFGS": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Sharp and flat minima, batch size and generalization": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Sketching for least squares": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Sparse storage formats (CSR, CSC, COO), fill-in and reordering": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Sterbenz lemma: when subtraction is exact": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Stochastic and minibatch gradient descent, and gradient noise": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Symplectic Euler and Stormer-Verlet, energy behaviour over long times": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|The logsumexp trick and numerically stable softmax": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|The proximal operator and proximal gradient descent": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Tikhonov regularization and the L-curve": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Total least squares via the SVD": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Trust region methods": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Variance reduction: antithetic variates and control variates": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Why flop counts alone mislead: memory layout and blocking": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|Wolfe conditions and backtracking line search": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|de Casteljau algorithm and B-spline basis functions": {
+  "covered": true,
+  "experimented": true,
+  "implemented": false,
+  "tested": true,
+  "verified": true
+ },
+ "SUP|-|-|float16 and bfloat16, exponent and mantissa trade-offs": {
+  "covered": true,
+  "experimented": true,
+  "implemented": true,
+  "tested": true,
+  "verified": true
+ }
+}
