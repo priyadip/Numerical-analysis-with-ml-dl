@@ -1,0 +1,23 @@
+{
+ "generated": "2026-09-09 04:47 UTC",
+ "notebooks_passed": 98,
+ "notebooks_failed": 0,
+ "tests_passed": 9606,
+ "tests_failed": 0,
+ "identities_passed": 13,
+ "identities_total": 13,
+ "notebook_assertions": 1000,
+ "concepts_covered": 514,
+ "concepts_total": 514,
+ "pairing_problems": [],
+ "broken_links": [],
+ "placeholders": [],
+ "documentation_references": [
+  "COURSE_ARCHITECTURE.md:426: - **Placeholder sweep.** The whole repository is searched for TODO, FIXME, TBD, ",
+  "docs/COURSE_ARCHITECTURE.md:426: - **Placeholder sweep.** The whole repository is searched for TODO, FIXME, TBD, "
+ ],
+ "generality_candidates": [],
+ "control_characters": [],
+ "lessons_built": 98,
+ "lessons_planned": 98
+}
